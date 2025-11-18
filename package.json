@@ -1,0 +1,13 @@
+{
+  "name": "website-basic",
+  "version": "1.0.0",
+  "description": "Mercedes-Benz Website Project",
+  "scripts": {
+    "sonar": "sonar-scanner",
+    "sonar:setup": "node setup-sonar.js"
+  },
+  "devDependencies": {
+    "sonar-scanner": "^3.1.0"
+  }
+}
+

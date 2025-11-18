@@ -1,0 +1,26 @@
+# Dossiers IDE
+.idea/
+.vscode/
+*.iml
+
+# SonarScanner temporaire
+.scannerwork/
+
+# Node modules (peut être recréé avec npm install)
+node_modules/
+package-lock.json
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers temporaires
+*.tmp
+*.temp
+*~
+
